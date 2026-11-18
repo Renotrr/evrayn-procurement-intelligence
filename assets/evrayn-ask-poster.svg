@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">EVRAYN Ask EVRAYN walkthrough</title>
+  <desc id="desc">A dark editorial title card for a recorded procurement workflow demonstration, from supplier evidence to a human-reviewed next step.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111a17"/>
+      <stop offset=".58" stop-color="#090d0d"/>
+      <stop offset="1" stop-color="#111614"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#8fbc8f" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#8fbc8f" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#cddacc" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+  <g fill="none" stroke="#b5d5ae" stroke-opacity=".22">
+    <ellipse cx="1200" cy="425" rx="300" ry="150" transform="rotate(-22 1200 425)"/>
+    <ellipse cx="1200" cy="425" rx="220" ry="110" transform="rotate(24 1200 425)"/>
+    <circle cx="1200" cy="425" r="92" stroke-opacity=".34"/>
+  </g>
+  <circle cx="1200" cy="425" r="54" fill="#18251e" stroke="#b5d5ae" stroke-opacity=".6"/>
+  <circle cx="1200" cy="425" r="37" fill="none" stroke="#b5d5ae" stroke-opacity=".35"/>
+  <text x="1200" y="438" text-anchor="middle" fill="#e5eee1" font-family="Arial, sans-serif" font-size="42" font-weight="700">e.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="104" y="104" fill="#b5d5ae" font-size="21" letter-spacing="5">EVRAYN / PRODUCT WALKTHROUGH</text>
+    <text x="100" y="360" fill="#f2f4ef" font-size="102" font-weight="700" letter-spacing="-3">The answer,</text>
+    <text x="100" y="474" fill="#f2f4ef" font-size="102" font-weight="700" letter-spacing="-3">as it happens.</text>
+    <text x="104" y="552" fill="#d5d9c8" font-size="31">Ask EVRAYN · Supplier evidence · Human review</text>
+    <text x="104" y="720" fill="#b8c4b7" font-size="19" letter-spacing="3">SCRIPTED PROTOTYPE DEMONSTRATION</text>
+    <text x="104" y="760" fill="#8d9b8f" font-size="22">Illustrative records. No live procurement action.</text>
+  </g>
+  <g transform="translate(1440 820)" fill="none" stroke="#b5d5ae" stroke-width="2">
+    <circle r="35" stroke-opacity=".65"/>
+    <path d="M-5 -12L12 0L-5 12Z" fill="#b5d5ae" stroke="none"/>
+  </g>
+</svg>
